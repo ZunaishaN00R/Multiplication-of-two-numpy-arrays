@@ -21,7 +21,7 @@ This Python script utilizes the power of NumPy to convert the revenues of Indian
   rupee = revenue * exchange_rate
   
   # Display the converted revenues
-  print(rupee)
+  print(rupee)'''
 
 
 # Explanation
