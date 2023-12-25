@@ -18,7 +18,7 @@ The script begins by defining a NumPy array named `revenue` to represent the com
 
 This script provides a simple and efficient method for currency conversion using NumPy arrays. It demonstrates how to multiply two arrays element-wise to convert Indian company revenues from US dollars to Indian Rupees.
 
-## Code Overview
+### Code Overview
 
 ```python
 import numpy as np
