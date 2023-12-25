@@ -24,14 +24,15 @@ This Python script utilizes the power of NumPy to convert the revenues of Indian
   print(rupee)
 
 
-Explanation
-The script defines a NumPy array named revenue to represent the company revenues in US dollars.
+# Explanation
 
-It then declares an array named exchange_rate to store the conversion rate (1 USD = 75 INR).
+The script defines a NumPy array named `revenue` to represent the company revenues in US dollars.
 
-The script performs the currency conversion by multiplying the revenue array by the exchange_rate array element-wise, resulting in a new array named rupee.
+It then declares an array named `exchange_rate` to store the conversion rate (1 USD = 75 INR).
 
-The converted revenues in Indian Rupees are displayed using print(rupee).
+The script performs the currency conversion by multiplying the `revenue` array by the `exchange_rate` array element-wise, resulting in a new array named `rupee`.
 
-Conclusion
+The converted revenues in Indian Rupees are displayed using `print(rupee)`.
+
+# Conclusion
 This script offers a simple and efficient method for currency conversion using NumPy arrays, demonstrating how to multiply two arrays element-wise to convert Indian company revenues from US dollars to Indian Rupees.
